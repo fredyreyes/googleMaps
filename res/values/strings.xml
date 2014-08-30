@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">googleMaps</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name ="map_key">AIzaSyDJvZQ5MqFDfWoBLT9u_-ooSS1-fuaotkI</string>
+
+</resources>
